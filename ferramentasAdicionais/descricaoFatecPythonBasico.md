@@ -36,3 +36,42 @@ Site: https://fatecjd.edu.br/huawei/login.php
 Repositório no GitHub: https://github.com/viccaznar/Python_FATEC-SP_JD_Huawai
 
 #opentonetwork #emprego #estagio #procurando #disponivel #ingles #english #avancado #tempo #gestao #curso #completo #programming #github #repositorio #developer #programacao #tech #desenvolvimento #tecnologia #ti #autoconhecimento #saude #emocional #saudeemocional #mindfulness #ajuda #help #python #curso #capacitacao
+
+
+[FATEC-SP JUNDIAÍ-SOROCABA x HUAWEI] Curso: PYTHON BÁSICO - (Meus cartões de Resumo)
+
+Parte 1 - O PYTHON.
+
+1.4 Documentação Python:
+
+Site: https://fatecjd.edu.br/huawei/login.php
+
+Repositório no GitHub: https://github.com/viccaznar/Python_FATEC-SP_JD_Huawai
+
+#opentonetwork #emprego #estagio #procurando #disponivel #ingles #english #avancado #tempo #gestao #curso #completo #programming #github #repositorio #developer #programacao #tech #desenvolvimento #tecnologia #ti #autoconhecimento #saude #emocional #saudeemocional #mindfulness #ajuda #help #python #curso #capacitacao
+
+
+[FATEC-SP JUNDIAÍ-SOROCABA x HUAWEI] Curso: PYTHON BÁSICO - (Meus cartões de Resumo)
+
+Parte 1 - O PYTHON.
+
+1.5 Requisitos Mínimos Python:
+
+Site: https://fatecjd.edu.br/huawei/login.php
+
+Repositório no GitHub: https://github.com/viccaznar/Python_FATEC-SP_JD_Huawai
+
+#opentonetwork #emprego #estagio #procurando #disponivel #ingles #english #avancado #tempo #gestao #curso #completo #programming #github #repositorio #developer #programacao #tech #desenvolvimento #tecnologia #ti #autoconhecimento #saude #emocional #saudeemocional #mindfulness #ajuda #help #python #curso #capacitacao
+
+
+[FATEC-SP JUNDIAÍ-SOROCABA x HUAWEI] Curso: PYTHON BÁSICO - (Meus cartões de Resumo)
+
+Parte 1 - O PYTHON.
+
+1.6 Elementos Fundamentais do Python:
+
+Site: https://fatecjd.edu.br/huawei/login.php
+
+Repositório no GitHub: https://github.com/viccaznar/Python_FATEC-SP_JD_Huawai
+
+#opentonetwork #emprego #estagio #procurando #disponivel #ingles #english #avancado #tempo #gestao #curso #completo #programming #github #repositorio #developer #programacao #tech #desenvolvimento #tecnologia #ti #autoconhecimento #saude #emocional #saudeemocional #mindfulness #ajuda #help #python #curso #capacitacao
